@@ -80,10 +80,8 @@
 
                    })
                    row += '</tr>';
-                   console.log(row)
                    rows.push(row)
                })
-                console.log(rows)
                 $('#example').html(rows)
 
             }
